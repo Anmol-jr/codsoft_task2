@@ -1,2 +1,3 @@
 # codsoft_task2
-The repo of task 2 rock paper scissor game
+The repo of task 2 is rock paper scissor game
+
